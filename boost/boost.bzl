@@ -193,7 +193,7 @@ def boost_deps():
             name = "org_bzip_bzip2",
             build_file = "@com_github_nelhage_rules_boost//:BUILD.bzip2",
             sha256 = "db106b740252669664fd8f3a1c69fe7f689d5cd4b132f82ba82b9afba27627df",
-            strip_prefix = "bzip2-1.0.8",
+            strip_prefix = "bzip2-bzip2-1.0.8",
             url = "https://github.com/opencor/bzip2/archive/refs/tags/bzip2-1.0.8.tar.gz",
         )
 
